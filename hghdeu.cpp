@@ -3,7 +3,10 @@ using namespace std;
 
 int main(){
     cout<<"laura lahsan"<<endl;
+    cout<<"vsb_sachin ";
+    cout<<"cbgdsjgfui"<<endl;
     
+<<<<<<< HEAD
 cout<<"sidhe daalo bahinchod"<<endl;
 
 
@@ -23,3 +26,6 @@ for (int i = 0; i <5; i++)
 }
 
 
+=======
+}
+>>>>>>> Dhiraj
